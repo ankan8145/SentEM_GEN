@@ -24,7 +24,7 @@ If used in research, please cite this work.
 
 # main_arct.jpg
 
-![Main Architecture Diagram](diagrams/main_arct.jpg)
+![Main Architecture Diagram](diagrams/main_arct_2.jpg)
 
 ## Overview
 
